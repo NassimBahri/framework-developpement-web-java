@@ -18,6 +18,7 @@ Il faut installer les outils suivants sur votre machine :
 ## Structure de ce répertoire
 * [DemoInterface](DemoInterface) : Rappel sur l'utilisation et l'utilité des interfaces en Java.
 * [HelloWorld](HelloWorld) : Initiation aux concepts clés de Spring Boot notamment (IoC, Dependency Injection, Bean et Component).
+* [NotifApp](NotifApp) : TP3 - Application d'envoi de notification pour illustrer les concepts clés de Spring Boot (IoC, Dependency Injection, Bean et Component).
 
 ## License
 
